@@ -11,10 +11,7 @@ body {
 h2 {
     padding-top: 20px;
 }
-#message {
-    height: 140px;
-    width: 650px;
-}
+
 #name{
     width: 650px;
 }
